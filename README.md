@@ -1,2 +1,2 @@
 # Web-development
-i developed Q&amp;A website using MYSQL,PHP,HTML,CSS
+Developed Q&amp;A website using MYSQL,PHP,HTML,CSS
